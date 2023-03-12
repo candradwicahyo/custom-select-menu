@@ -30,4 +30,4 @@ git clone https://github.com/candradwicahyo/custom-select-menu.git
 
 ![preview](https://github.com/candradwicahyo/custom-select-menu/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/custom-select-menu)
+[tekan link ini](https://candradwicahyo.github.io/custom-select-menu) untuk mencoba demo
